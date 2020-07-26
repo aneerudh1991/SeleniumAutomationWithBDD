@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite" parallel="tests" thread-count="5">
+ <listeners>
+     
+        
+         <listener class-name="test.listeners"/>
+         <listener class-name="resources.ExtentReporterNG"/>
+         
+
+ </listeners>
+
+  <test name="Flight booking operations Scenario">
+    <classes>
+      <class name="cucumberOptions.TestRunner"/>
+          </classes>
+      </test>
+      
+   
+   <!-- Test -->
+</suite> <!-- Suite -->

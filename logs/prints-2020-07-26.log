@@ -1,0 +1,6 @@
+23:47:28.870 [TestNG-tests-1] DEBUG resources.base - SWITCHED TO CHILD WINDOW
+23:47:31.713 [TestNG-tests-1] DEBUG resources.base - SWITCHED BACK TO PARENT WINDOW
+23:47:37.431 [TestNG-tests-1] DEBUG resources.base - Total number of flights displayed in UI for given search criteria is : 3
+23:47:37.633 [TestNG-tests-1] DEBUG resources.base - FASTEST FLIGHT FARE IS :3,135
+23:47:42.997 [TestNG-tests-1] DEBUG resources.base - SELECTED FASTEST FLIGHT
+23:47:43.082 [TestNG-tests-1] DEBUG resources.base - SWITCHED TO CHILD WINDOW
